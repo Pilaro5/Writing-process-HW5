@@ -8,28 +8,28 @@ autonomous vehicles, regulations and liability. This paper addresses two approac
 vehicles. 
 
   One approach to solving the problem of ethical dilemmas on the road consists of implementing an explicit moral code that the car 
-must follow in all circumstances. This method has the advantage of being consistent and predictable. For instance, a company could 
-decide to set the ethics code of their car to protect the driver and passengers at all costs. Another might set it to minimize 
+must follow under all circumstances. This method has the advantage of being consistent and predictable. For instance, a company could 
+decide to set the ethics code of their car to protect the driver and passengers at all costs; another might set it to minimize 
 injuries, regardless of the outcome for the car’s passengers. These guidelines could be circumscribed by laws that aim to minimize 
-harm in case of an accident and follow general utilitarian rules. However, this method also presents many drawbacks. Studies lead by 
+harm in case of an accident and follow general utilitarian rules [3]. However, this method also presents many drawbacks. Studies lead by 
 Jean-Francois Bonnefon of the Toulouse School of Economics show that although most people would rather own autonomous vehicles that 
-minimize casualties, the risk of being sacrificed by their own car to save other lives strongly discourages them from owning a 
-driverless car. Another major disadvantage stems from the impossibility to code a set of rules that is extensive enough to span every 
-possible situation. In addition, autonomous cars make decisions based on cameras and radar sensors. This data can be ambiguous. A 
+minimize casualties; the risk of being sacrificed by their own car to save other lives strongly discourages them from owning a 
+driverless car [2]. Another major disadvantage stems from the impossibility to code a set of rules that is extensive enough to span every 
+possible situation. In addition, autonomous cars make decisions based on cameras and radar sensors. This data can be ambiguous; a 
 child could be mistaken for a dog. In a scenario of inevitable harm, a rule directing the vehicle to prioritize hitting animals over 
 humans could have terrible consequences. The data driven method to solving ethical dilemmas seeks to resolve this problem.
 
   Another promising tactic for self-driving cars making ethical decisions based on machine learning. Vast amounts of data collected 
-from ethical experiments such as how humans respond to the trolley problem would then be fed to the learning software. The 
-trolley problem is a thought experiment in which the subject is told that they are in a speeding train on a collision course with
+from ethical experiments such as how humans respond to the trolley problem would then be fed to the learning software [2]. The 
+trolley problem is a thought experiment in which the subject is told that they are in a speeding train, on a collision course with
 five workers. However, the subject has the power to change the course of the trolley, which would then hit and kill a single worker. 
 Studying how humans respond to this problem and many others could provide a driverless car with numerous instances of real human 
 decisions. A machine learning algorithm would then sort through all of these situations and find patterns to guide it in new 
-circumstances. This offers many advantages. It does not require the software guiding the car to have an extensive ethics code 
+circumstances [5]. This offers many advantages; it does not require the software guiding the car to have an extensive ethics code 
 covering every imaginable outcome. Rather, it attempts to mimic the decisions a real human would make in such scenarios. However, 
-this approach’s main advantage is also its main drawback. Not hard coding a precise and extensive ethics code into the car makes it 
+this approach’s main advantage is also its main drawback; not hard coding a precise and extensive ethics code into the car makes it 
 very unpredictable. There is no way of foreseeing how an autonomous vehicle equipped with such logic would react in a specific 
-situation or how it would pick one rule to follow over another. Although this method appears to be best suited for the widespread
+situation, or how it would pick one rule to follow over another [5]. Although this method appears to be best suited for the widespread
 use of autonomous cars, it could discourage potential drivers from buying a vehicle that could potentially make an unpredictable 
 decision, no matter how small the odds are of such an event happening. For this matter, it is important to consider who would be 
 allowed to tune a car’s ethics.  
@@ -43,9 +43,9 @@ to reliably make better decisions in any situation.
 
 
 
-K. Naughton, "Humans Are Slamming Into Driverless Cars and Exposing a Key Flaw", 2015. [Online]. Available: http://www.bloomberg.com/news/articles/2015-12-18/humans-are-slamming-into-driverless-cars-and-exposing-a-key-flaw. [Accessed: 30- Apr- 2016]
-J. Bonnefon, A. Shariff and I. Rahwan, Autonomous Vehicles Need Experimental Ethics: Are We Ready for Utilitarian Cars?, 1st ed. 2015 [Online]. Available: http://arxiv.org/pdf/1510.03346v1.pdf. [Accessed: 30- Apr- 2016]
-J. Millar, "You Should Have a Say in Your Robot Car’s Code of Ethics", WIRED, 2016. [Online]. Available: http://www.wired.com/2014/09/set-the-ethics-robot-car/. [Accessed: 30- Apr- 2016]
-P. Lin, "Here’s a Terrible Idea: Robot Cars With Adjustable Ethics Settings", WIRED, 2016. [Online]. Available: http://www.wired.com/2014/08/heres-a-terrible-idea-robot-cars-with-adjustable-ethics-settings/. [Accessed: 30- Apr- 2016]
-B. Deng, "Machine Ethics: The Robot’s Dilemma", Nature, vol. 523, no. 7558, pp. 24-26, 2015.
-MIT Technology Review, "Why Self-Driving Cars Must Be Programmed to Kill | MIT Technology Review", 2015. [Online]. Available: http://www.technologyreview.com/view/542626/why-self-driving-cars-must-be-programmed-to-kill/. [Accessed: 30- Apr- 2016]
+[1] K. Naughton, "Humans Are Slamming Into Driverless Cars and Exposing a Key Flaw", 2015. [Online]. Available: http://www.bloomberg.com/news/articles/2015-12-18/humans-are-slamming-into-driverless-cars-and-exposing-a-key-flaw. [Accessed: 30- Apr- 2016]
+[2] J. Bonnefon, A. Shariff and I. Rahwan, Autonomous Vehicles Need Experimental Ethics: Are We Ready for Utilitarian Cars?, 1st ed. 2015 [Online]. Available: http://arxiv.org/pdf/1510.03346v1.pdf. [Accessed: 30- Apr- 2016]
+[3] J. Millar, "You Should Have a Say in Your Robot Car’s Code of Ethics", WIRED, 2016. [Online]. Available: http://www.wired.com/2014/09/set-the-ethics-robot-car/. [Accessed: 30- Apr- 2016]
+[4] P. Lin, "Here’s a Terrible Idea: Robot Cars With Adjustable Ethics Settings", WIRED, 2016. [Online]. Available: http://www.wired.com/2014/08/heres-a-terrible-idea-robot-cars-with-adjustable-ethics-settings/. [Accessed: 30- Apr- 2016]
+[5] B. Deng, "Machine Ethics: The Robot’s Dilemma", Nature, vol. 523, no. 7558, pp. 24-26, 2015.
+[6] MIT Technology Review, "Why Self-Driving Cars Must Be Programmed to Kill | MIT Technology Review", 2015. [Online]. Available: http://www.technologyreview.com/view/542626/why-self-driving-cars-must-be-programmed-to-kill/. [Accessed: 30- Apr- 2016]
