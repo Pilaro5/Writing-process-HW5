@@ -1,33 +1,65 @@
-Why talk about ehtics of autonomous vehicles? 
+1)Introduction:
+Automous vehicles are at the forefront of the technological hype. Not a day passes without them being mentioned in the news as an 
+important milestone is reached or visionary regulation is proposed. While large corporations and tech start-ups praise the utopian 
+world of fully autonomous cars at CES (Consumer Electronics Show) and other high profile events, many issues still remain concerning 
+the large scale deployment of self-driving vehicles, namely their decision making on the road. As autonomous vehicles begin to 
+replace manual cars, they will be faced with unique situations. The algorithm the car follows will have to decide the fate of 
+pedestrians, drivers, and passengers in a split second, sometimes choosing to sacrifice one to save others. When facing situations 
+of inevitable harm, the vehicle must be able to take moral decisions to minimize injuries. This ethical issue raises important 
+questions with regards to the programming of autonomous vehicles, regulations and liability. This paper addresses the 
+importance of defining the ethics of self-driving cars, the explicit coding of rules versus the implementation of a data driven 
+code of ethics, and the future implications of a user-adjustable ethics code versus one set by the manufacturer or legislation.
+Although the widespread use of driverless vehicles will dramatically reduce the number of accidents and the severity of incurred
+damages (both injuries, and material loss), certain situations will require autonomous vehicles to make decision that have no morally 
+right outcome. This brings up many issues with regards to the programming of driver-less cars. Consider the example of a car 
+surrounded by traffic on the highway: in front, a truck, on the right, a motorcycle, on the left, an SUV. Some of the truck’s 
+cargo inadvertently falls onto the road, too late for the car to come to a stop. The car faces a moral choice: to either maintain 
+its collision course with the fallen cargo, sacrificing its own passenger, to swerve to the right, killing the motorcyclist but 
+saving the car’s occupants, or to collide with the SUV, which tend to be safer vehicles in case of an accident. Moreover, there is 
+the question of whether the owner of the vehicle may tune the ethical settings of the car, or whether this moral code is entirely 
+the manufacturer’s responsibility appears. These issues have the potential to cause public outrage and discourage buyers from 
+opting for driverless cars, which would prevent the environmental and safety benefits that come with autonomous vehicles. Two 
+promising methods have emerged to answer these problems.
 
-Moral decisions in unpredictable road conditions
-Liability issues and establishing responsibility
-Not discouraging potential buyers
+2)Two approaches: 
+  a) Decisions based on an explicit moral code
+One approach to solving the problem of ethical dilemmas on the road consists of implementing an explicit moral code that the car 
+must follow in all circumstances. This method has the advantage of being consistent and predictable. The code could be set by the 
+manufacturer. For instance, a company could decide to set the ethics code of their car to protect the driver and passengers at all 
+costs. Another might set it to minimize injuries, regardless of the outcome for the car’s passengers. These guidelines could be 
+circumscribed by laws that aim to minimize harm in case of an accident and follow general rules for the greater good. However, 
+this method also presents many drawbacks. Studies lead by Jean-Francois Bonnefon of Toulouse School of Economics show that although 
+most people would rather own autonomous vehicles that minimize casualties, the risk of being sacrificed by their own car to save 
+other lives strongly discourages them from owning a driverless car. Another major disadvantage stems from the impossibility to 
+code a set of rules that is extensive enough to span every possible situation. In addition, autonomous cars make decisions based on 
+cameras and radar sensors. This data can be ambiguous. A child could be mistaken for a dog. In a scenario of inevitable harm, a rule
+directing the vehicle to prioritize hitting animals over humans could have terrible consequences. The data driven method to solving 
+ethical dilemmas seeks to resolve this problem.
 
-Vehicle must learn to make ethical decisions in any situation. 
-Has to make judgements even when they involve inevitable harm. 
-Quantification of life? Must have an algorithm capable of minimizing harm
-Poses many ethical questions when considering certain scenarios
-Trolley problem
+  b) Decisions based on data and machine learning
+Another promising tactic for self-driving cars making ethical decisions based on machine learning. Vast amounts of data collected 
+from ethical experiments such as how humans respond to the trolley problem would then be fed to the learning software. The 
+trolley problem is a thought experiment in which the subject is told that they are in a speeding train on a collision course with
+five workers. However, the subject has the power to change the course of the trolley, which would then hit and kill a single worker. 
+Studying how humans respond to this problem and many others could provide a driverless car with numerous instances of real human 
+decisions. A machine learning algorithm would then sort through all of these situations and find patterns to guide it in new 
+circumstances. This offers many advantages. It does not require the software guiding the car to have an extensive ethics code 
+covering every imaginable outcome. Rather, it attempts to mimic the decisions a real human would make in such scenarios. However, 
+this approach’s main advantage is also its main drawback. Not hard coding a precise and extensive ethics code into the car makes it 
+very unpredictable. There is no way of foreseeing how an autonomous vehicle equipped with such logic would react in a specific 
+situation or how it would pick one rule to follow over another. Although this method appears to be best suited for the widespread
+use of autonomous cars, it could discourage potential drivers from buying a vehicle that could potentially make an unpredictable 
+decision, no matter how small the odds are of such an event happening. For this matter, it is important to consider who would be 
+allowed to tune a car’s ethics.  
 
-Two approaches to dealing with these moral issues
+Conclusion
+Although autonomous driving is still in its early stages, it is critical to consider the ethical issues surrounding this industry. 
+Creating a moral code that allows a car to function ethically on the road, while behaving as closely as possible to human drivers is 
+a tough engineering challenge. This code will have to be adaptable to any scenario. Overcoming this challenge will allow autonomous 
+driving to improve road safety and our environmental footprint. Although driverless cars are projected to dramatically reduce the 
+number of accidents and greatly improve road safety as well as traffic, they will first have to be equipped with the right software 
+to reliably make better decisions in any situation.  
 
-Decisions based on an explicit moral code
--Advantages
---Consistency and predictability of the outcome
---Easily tunable by manufacturers
--Disadvantages
---Spanning every possible situation
---Ambiguity of input data
-
-Decisions based on data and machine learning
--Benefits
---No need to code for every possible situation
---Can closely mimic human behavior 
---Can implement reasonable rule breaking behavior 
--Drawbacks
---No explicit code means unpredictability
---Difficult to correct and fine tune moral code
 
 
 K. Naughton, "Humans Are Slamming Into Driverless Cars and Exposing a Key Flaw", 2015. [Online]. Available: http://www.bloomberg.com/news/articles/2015-12-18/humans-are-slamming-into-driverless-cars-and-exposing-a-key-flaw. [Accessed: 30- Apr- 2016]
