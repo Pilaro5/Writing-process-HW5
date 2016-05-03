@@ -1,3 +1,35 @@
+Why talk about ehtics of autonomous vehicles? 
+
+Moral decisions in unpredictable road conditions
+Liability issues and establishing responsibility
+Not discouraging potential buyers
+
+Vehicle must learn to make ethical decisions in any situation. 
+Has to make judgements even when they involve inevitable harm. 
+Quantification of life? Must have an algorithm capable of minimizing harm
+Poses many ethical questions when considering certain scenarios
+Trolley problem
+
+Two approaches to dealing with these moral issues
+
+Decisions based on an explicit moral code
+-Advantages
+--Consistency and predictability of the outcome
+--Easily tunable by manufacturers
+-Disadvantages
+--Spanning every possible situation
+--Ambiguity of input data
+
+Decisions based on data and machine learning
+-Benefits
+--No need to code for every possible situation
+--Can closely mimic human behavior 
+--Can implement reasonable rule breaking behavior 
+-Drawbacks
+--No explicit code means unpredictability
+--Difficult to correct and fine tune moral code
+
+
 K. Naughton, "Humans Are Slamming Into Driverless Cars and Exposing a Key Flaw", 2015. [Online]. Available: http://www.bloomberg.com/news/articles/2015-12-18/humans-are-slamming-into-driverless-cars-and-exposing-a-key-flaw. [Accessed: 30- Apr- 2016]
 J. Bonnefon, A. Shariff and I. Rahwan, Autonomous Vehicles Need Experimental Ethics: Are We Ready for Utilitarian Cars?, 1st ed. 2015 [Online]. Available: http://arxiv.org/pdf/1510.03346v1.pdf. [Accessed: 30- Apr- 2016]
 J. Millar, "You Should Have a Say in Your Robot Car’s Code of Ethics", WIRED, 2016. [Online]. Available: http://www.wired.com/2014/09/set-the-ethics-robot-car/. [Accessed: 30- Apr- 2016]
